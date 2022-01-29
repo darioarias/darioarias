@@ -34,7 +34,7 @@
 <p> You can find me struggling with a Leetcode or Hackerrank problem on my spare time, or working on a project as a means to explore new technologies.</p>
 <p> Openly and eagerly seeking SWE internships, do reach out with any opportunities. </p>
 
-<h6> That's all, thank you for checking my profile </h6>
+<h6> That's all, thank you for checking my profile ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)</h6>
 <!---
 darioarias/darioarias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
