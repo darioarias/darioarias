@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
 - 👋 Hi, I’m @darioarias
 - 👀 I’m interested in building softwares that impact people's life in a meaningful way.
 - 🌱 I’m currently learning Operating systems and Swift.
