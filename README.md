@@ -1,4 +1,4 @@
-<h3> Short </h3>
+<h2> Short </h2>
 <p> Senior Computer Science Student @Hunter College '22. Enthusiastic individual, who loves programming, and team work. </p>
 
 
