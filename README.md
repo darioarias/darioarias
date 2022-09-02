@@ -1,5 +1,5 @@
 <h2> Short </h2>
-<p> Senior Computer Science Student @Hunter College '22. Enthusiastic individual, who loves programming, and team work. </p>
+<p> Senior Computer Science Student @Hunter College '22. Enthusiastic individual who loves programming and team work. </p>
 
 
 <h2> Socials </h2>
@@ -32,7 +32,6 @@
 <h2> and, More... </h2>
 <p> I love working on small projects to strengthen my understanding. </p> 
 <p> You can find me struggling with a Leetcode or Hackerrank problem on my spare time, or working on a project as a means to explore new technologies.</p>
-<p> Openly and eagerly seeking SWE internships, do reach out with any opportunities. </p>
 
 
 <h6> That's all, thank you for checking my profile</h6>
