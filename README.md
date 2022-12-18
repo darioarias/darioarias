@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a project to help people practicing coding interview better understand the problems and provide them with the tools to 'play' with the problem. <br><br>Most days, you can find me struggling with a Leetcode or Hackerrank problems.
+I am currently working on a project to help people practice coding interview questions and better understand the problems. Moreover, I am looking to provide them with the tools to 'play' with the problem. <br><br>Most days, you can find me struggling with a Leetcode or Hackerrank problems.
 
 
 ## 🌐 Socials:
